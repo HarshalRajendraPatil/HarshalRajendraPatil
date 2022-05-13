@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @HarshalRajendraPatil
 - 👀 I’m interested in Programming and game development
 - 🌱 I’m currently learning C++
+- 🎓 My expertise are HTML, CSS, C.
+- 🎩 Intermidiate at Javascript, Python.
+- 🧢 Beginner at PHP, nodeJS.
 - 💞️ I’m looking to collaborate on projects using C and Python language
 - 📫 You can reach me by my mail,
 -                                harshalrptl@gmail.com
