@@ -2,5 +2,5 @@
 - 👀 I’m interested in Programming and game development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects using C and Python language
-- 📫 How to reach me by my mail,
+- 📫 You can reach me by my mail,
 -                                harshalrptl@gmail.com
