@@ -5,5 +5,4 @@
 - 🎩 Intermidiate at Javascript, Python.
 - 🧢 Beginner at PHP, nodeJS.
 - 💞️ I’m looking to collaborate on projects using C and Python language
-- 📫 You can reach me by my mail,
--                                harshalrptl@gmail.com
+- 📫 You can reach me by my mail:-       harshalrptl@gmail.com
